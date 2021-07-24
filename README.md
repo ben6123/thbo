@@ -1,2 +1,3 @@
 # thbo
-My welcome repository
+Software engineering student 
+
