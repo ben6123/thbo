@@ -15,6 +15,6 @@ int sum1(int a,int b,int c ,int d ,int e,int f){
     printf ("input 3 variables");
     scanf("%d %d %d",&a,&b,&c);
     add =sum(a,b,c);
-    printf("the sum is: %d", add);
+    printf("the new sum is: %d", add);
     return 0;
  }
