@@ -12,7 +12,7 @@ int sum1(int a,int b,int c ,int d ,int e,int f){
 
    int main()
 {    int add,a,b,c;
-    printf ("input 3 variables");
+    printf ("Input 3 variables");
     scanf("%d %d %d",&a,&b,&c);
     add =sum(a,b,c);
     printf("the new sum is: %d", add);
