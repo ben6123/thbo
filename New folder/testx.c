@@ -6,8 +6,6 @@ int main()
     int i;
     double u;
     }u;
-    //two declaration cant be declared cuz union takes the highest structure
-    //as overall while struct does not 
     printf("enter i\n");
     scanf("%d" ,&u.i);
     //printf("enter u\n");
