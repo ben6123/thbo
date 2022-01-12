@@ -7,7 +7,7 @@ int b[];
 void collect(int a[], int n){
     int j;
  for(j=0;j<=n;j++){
-    printf("enter elements of the array\n");
+    printf("enter the elements of the array\n");
     scanf("%d" ,&a[j]);
  }
 }
